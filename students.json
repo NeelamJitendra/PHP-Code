@@ -2,10 +2,17 @@
   "students" : [
     {
     "name" : "Jitendra",
-			"age" : "24",
-			"sex" : "Male",
-			"nationality" : "Indian",
-			"Course" : "Telecommunication" 
-		}
+    "age" : "24",
+    "sex" : "Male",
+    "nationality" : "Indian",
+    "Course" : "Telecommunication" 
+    },
+    {
+    "name" : "Mikael",
+    "age" : "43",
+    "sex" : "Male",
+    "nationality" : "German",
+    "Course" : "Software Development"
+     }
     ]
   }
