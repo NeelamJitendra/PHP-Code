@@ -16,18 +16,18 @@
      "Course" : "Software Development"
      },
      {
-       "name" : "Mani",
-	"age" : "25",
-	"sex" : "Male",
-	"nationality" : "Indian",
-	"Course" : "Signal Processing"
+      "name" : "Mani",
+      "age" : "25",
+      "sex" : "Male",
+      "nationality" : "Indian",
+      "Course" : "Signal Processing"
       },
       {
-	"name" : "Jonshon",
-	"age" : "33",
-	"sex" : "Male",
-	"nationality" : "Danish",
-	"Course" : "Telecommunication"
+       "name" : "Jonshon",
+       "age" : "33",
+       "sex" : "Male",
+       "nationality" : "Danish",
+       "Course" : "Telecommunication"
        },
        {
 	"name" : "Julia",
