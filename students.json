@@ -1,0 +1,11 @@
+{
+  "students" : [
+    {
+    "name" : "Jitendra",
+			"age" : "24",
+			"sex" : "Male",
+			"nationality" : "Indian",
+			"Course" : "Telecommunication" 
+		}
+    ]
+  }
