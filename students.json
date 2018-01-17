@@ -16,32 +16,32 @@
      "Course" : "Software Development"
      },
      {
-			"name" : "Mani",
-			"age" : "25",
-			"sex" : "Male",
-			"nationality" : "Indian",
-			"Course" : "Signal Processing"
-	   },
-		 {
-			"name" : "Jonshon",
-			"age" : "33",
-			"sex" : "Male",
-			"nationality" : "Danish",
-			"Course" : "Telecommunication"
-		 },
-		 {
-			"name" : "Julia",
-			"age" : "24",
-			"sex" : "Female",
-			"nationality" : "Norwegian",
-			"Course" : "Signal Processing"
-		 },
-		 {
-			"name" : "Mohamad",
-			"age" : "64",
-			"sex" : "Male",
-			"nationality" : "Syrian",
-			"Course" : "Software Development"
-		 }
+       "name" : "Mani",
+	"age" : "25",
+	"sex" : "Male",
+	"nationality" : "Indian",
+	"Course" : "Signal Processing"
+      },
+      {
+	"name" : "Jonshon",
+	"age" : "33",
+	"sex" : "Male",
+	"nationality" : "Danish",
+	"Course" : "Telecommunication"
+       },
+       {
+	"name" : "Julia",
+	"age" : "24",
+	"sex" : "Female",
+	"nationality" : "Norwegian",
+	"Course" : "Signal Processing"
+       },
+       {
+	"name" : "Mohamad",
+	"age" : "64",
+	"sex" : "Male",
+	"nationality" : "Syrian",
+	"Course" : "Software Development"
+       }
    ]
   }
