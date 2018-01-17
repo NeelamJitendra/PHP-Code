@@ -4,7 +4,7 @@
 	$output = "<ul>";
  	foreach($json['students'] as $student)
 	{
-		$output .= "<li>".$student['name']."</li>";
+		$output .= "<h4>".$student['name']."</h4>";
 		$output .= "<li>age: ".$student['age']."</li>";
 		$output .= "<li>sex: ".$student['sex']."</li>";
 		$output .= "<li>nationality: ".$student['nationality']."</li>";
